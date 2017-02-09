@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    using the diff command with -u flag and old version and new version of file
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Using a version control system
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros manual commits: You know when you did a big change, so you can commit; cons: maybe you forgot make a commit when was neccesary and you did lost your work.
+    Cons auto commits: Maybe wasn't necesary make a commit when it was commited and you have a unnecesary version; Pros: Maybe you forgot make a commit but it was commited automatically, so you have all your work on save, thats good.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because of git tends to be used by developers who want have a control version system and the most of the times changes are made to diferents connected files, on the other hard, others control versions like google docs just need keep a single file because most of the times a file doesn't depends of another one.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    When i make a change and something was wrong because i moved some line that i sould didnt i can use git log to see history about commits and see differences between two differents commits to look at what was wrong
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Well, if i know that i can get back to a stable version of my project i can go ahead making changes without worry if i make a wrong change
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to make a big project to test my git skills
