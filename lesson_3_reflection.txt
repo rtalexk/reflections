@@ -34,4 +34,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to test a new feature that maybe can be added to the original project but can
+    cause problems with it too, so you maybe test in a separate 'timeline' to verify it works.
