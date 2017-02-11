@@ -23,12 +23,13 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    With that git can know if is up-to-date of if there diferences between remote and local
+    repository
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Well, I can't imagine a different way to collaborate without having all benefits git gives.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
