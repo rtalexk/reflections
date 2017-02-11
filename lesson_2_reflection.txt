@@ -10,13 +10,27 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+   I can just add the files that i want to commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+   It is important user branches when you are working in a project where there are several developers. Each one of them can have a individual branche where they code their own tasks. Also can there a branch called dev or relative to where the branches will be merge when a test version are ready. Maybe a beta branch to keep a beta version of the project and a rc branch for a release candidate version.
+
 How do the diagrams help you visualize the branch structure?
+
+    I can now here is each branch and know where was made each commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    
+    You get an addition of two branches getting as result the combination of commits in an stand
+    alone branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+    Automatic merging pros: you have not to doit, git does it for you! cons: maybe git get confused
+    merging the differences, but it doesn't happen, cuz of git ask you when a conflict happen.
+    Always doing merges cons: its more work for you, and it can be automated, so why dont automate
+    it? cons: you have more control what are you merging at.
